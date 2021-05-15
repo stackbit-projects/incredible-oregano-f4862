@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # A Bonsai Collective and Nursery based in Austin, Texas&#xA;
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Providing quality products and services to strengthen bonsai communities
+      and practitioners
     actions:
       - title: See all items
         url: /store
