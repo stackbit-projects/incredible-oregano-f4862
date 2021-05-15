@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # A Bonsai Collective and Nursery based in Austin, Texas&#xA;
+      ## A Bonsai Collective and Nursery based in Austin, Texas&#xA;
 
 
       Providing quality products and services to strengthen bonsai communities
