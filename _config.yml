@@ -42,3 +42,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://incredible-oregano-f4862.netlify.app'
